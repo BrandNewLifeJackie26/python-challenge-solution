@@ -22,3 +22,13 @@ Substitute `map` in the url with decoded string `ocr`
 
 </p>
 </details>
+
+
+### Challenge 2
+<details><summary>ANSWER</summary>
+<p>
+
+Substitute `ocr` in the url with string `equality` hidden in messy string
+
+</p>
+</details>
