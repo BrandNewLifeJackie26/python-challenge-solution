@@ -66,3 +66,24 @@ Substitute `equality.html` in the url with string `linkedlist.php` hidden in mes
 
 </p>
 </details>
+
+
+### Challenge 4
+<details><summary>HINT</summary>
+<p>
+
+1. Click on the image.
+2. What about using packages to visit seemingly endless list of web pages.
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `urllib` to visit list of linked web pages. 
+Finally substitute `linkedlist.php` in the url with string `peak.html`
+
+</p>
+</details>
+
