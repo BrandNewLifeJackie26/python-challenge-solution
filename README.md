@@ -87,3 +87,22 @@ Finally substitute `linkedlist.php` in the url with string `peak.html`
 </p>
 </details>
 
+
+### Challenge 5
+<details><summary>HINT</summary>
+<p>
+
+1. See web page source
+2. What does `banner` mean?
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `pickle` to unpickle binary in `banner.p`, and print the content out. 
+Finally substitute `peak` in the url with string `channel`
+
+</p>
+</details>
