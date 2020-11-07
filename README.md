@@ -106,3 +106,26 @@ Finally substitute `peak` in the url with string `channel`
 
 </p>
 </details>
+
+
+### Challenge 6
+<details><summary>HINT</summary>
+<p>
+
+1. Where does the zip file lie?
+2. Same trick with linked list.
+3. What does `comment` mean?
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `zipfile` to get comments in `channel.zip`, and print the content out. 
+Finally substitute `channel` in the url with string `oxygen`
+
+</p>
+</details>
+
+
