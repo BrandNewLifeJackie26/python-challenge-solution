@@ -165,3 +165,22 @@ Input username: `huge`, password: `file`.
 
 </p>
 </details>
+
+
+### Challenge 9
+<details><summary>HINT</summary>
+<p>
+
+What does `connect the dots` mean?
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `PIL` to connect dots. 
+Replace `good` with `bull`.
+
+</p>
+</details>
