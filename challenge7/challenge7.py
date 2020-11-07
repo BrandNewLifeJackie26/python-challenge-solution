@@ -22,29 +22,29 @@
 
 from PIL import Image
 
-im = Image.open("oxygen.png")
-width, height = im.size
+with Image.open("oxygen.png") as im:
+    width, height = im.size
 
-"""
-    Get data, each pixel represents (R, G, B, Alpha),
-    organized row-wise in a single list
-"""
-pix = list(im.getdata())
+    """
+        Get data, each pixel represents (R, G, B, Alpha),
+        organized row-wise in a single list
+    """
+    pix = list(im.getdata())
 
-"""
-    Print out the first col, find consecutive of (115, 115, 115, 255)
-"""
-# for i in range(height):
-#     print(pix[i * width])
+    """
+        Print out the first col, find consecutive of (115, 115, 115, 255)
+    """
+    # for i in range(height):
+    #     print(pix[i * width])
 
 
-"""
-    Find the row index of embedded data
-"""
-# for i in range(height):
-#     if pix[i * width] == (115, 115, 115, 255):
-#         print(i)
-#         break
+    """
+        Find the row index of embedded data
+    """
+    # for i in range(height):
+    #     if pix[i * width] == (115, 115, 115, 255):
+    #         print(i)
+    #         break
 
 """
     Decode data
