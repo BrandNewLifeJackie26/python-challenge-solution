@@ -129,3 +129,20 @@ Finally substitute `channel` in the url with string `oxygen`
 </details>
 
 
+### Challenge 7
+<details><summary>HINT</summary>
+<p>
+
+How to read the data embedded in the png?
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `PIL` to get data embedded in `oxygen.png`, and print the content out. 
+Finally substitute `oxygen` in the url with string `integrity`
+
+</p>
+</details>
