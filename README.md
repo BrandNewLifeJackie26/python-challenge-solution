@@ -1,7 +1,7 @@
 # python-challenge-solution
-Solution for python challenge (http://www.pythonchallenge.com/).
+**Solution for python challenge (http://www.pythonchallenge.com/).**
 
-THE REPO CONTAINS SPOILER!!! TRY YOUR BEST BEFORE LOOKING AT IT!!!
+***THE REPO CONTAINS SPOILER!!! TRY YOUR BEST BEFORE LOOKING AT IT!!!***
 
 
 ### Challenge 0
@@ -143,6 +143,25 @@ How to read the data embedded in the png?
 
 Use `PIL` to get data embedded in `oxygen.png`, and print the content out. 
 Finally substitute `oxygen` in the url with string `integrity`
+
+</p>
+</details>
+
+
+### Challenge 8
+<details><summary>HINT</summary>
+<p>
+
+How to decode the mysterious numbers in page source?
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Use `bz2` to decompress data. 
+Input username: `huge`, password: `file`.
 
 </p>
 </details>
