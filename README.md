@@ -184,3 +184,22 @@ Replace `good` with `bull`.
 
 </p>
 </details>
+
+
+### Challenge 10
+<details><summary>HINT</summary>
+<p>
+
+Try to see each array element as concatenation of pair of numbers.
+
+</p>
+</details>
+
+<details><summary>ANSWER</summary>
+<p>
+
+Find the pattern in the array and calculate the length of the 30<sup>th</sup> element. 
+Replace `bull` with `5808`.
+
+</p>
+</details>
